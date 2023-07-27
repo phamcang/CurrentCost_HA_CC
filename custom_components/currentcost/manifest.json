@@ -2,14 +2,14 @@
   "domain": "currentcost",
   "name": "Current Cost",
   "version": "0.2.4",
-  "documentation": "https://github.com/lolouk44/CurrentCost_HA_CC",
+  "documentation": "https://github.com/phamcang/CurrentCost_HA_CC",
   "requirements": [
-    "pyserial-asyncio==0.4",
+    "pyserial-asyncio==0.6",
     "xmltodict==0.12.0"
   ],
   "dependencies": [],
-  "issue_tracker": "https://github.com/lolouk44/CurrentCost_HA_CC/issues",
+  "issue_tracker": "https://github.com/phamcang/CurrentCost_HA_CC/issues",
   "codeowners": [
-    "@lolouk44"
+    "@phamcang"
   ]
 }
