@@ -70,9 +70,9 @@ template:
         device_class: power
         state_class: measurement
   - sensor:
-      - name: "Dehumidifier Power"
+      - name: "Appliance 9 Power"
         unit_of_measurement: 'W'
-        state: '{{ state_attr("sensor.current_cost", "Appliance 2") }}'
+        state: '{{ state_attr("sensor.current_cost", "Appliance 9") }}'
         device_class: power
         state_class: measurement
   - sensor:
